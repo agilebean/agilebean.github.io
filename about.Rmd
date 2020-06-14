@@ -4,4 +4,16 @@ title: "About me"
 
 ## Header
 
-Say more about you here.
+Hello.
+I am an assistant professor of Information & Interaction Design.
+
+My main research interests lie in machine learning/deep learning in psychological contexts
+relevant to design.
+
+I am also a coffee roaster, wine lover, and friend of all young dogs.
+
+I love learning new stuff.
+
+Artificial intelligence was particularly exciting for me.
+But being a foodie, exploring the world in all its authentic food is still exciting to me.
+

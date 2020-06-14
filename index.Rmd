@@ -1,5 +1,12 @@
 ---
-title: "Welcome to my website!"
+title: "Hello, my name is So. Chaehan So."
 ---
 
-You're up and running!
+This website provides you an overview about what I'm doing.
+
+I love my job as a professor, and even though I work a lot,
+I don't see as a burden - it's not a job, it's a mindset :)
+
+Nevertheless, I do understand the relevance of food,
+and the relevance of good wine for long-term life satisfaction.
+
